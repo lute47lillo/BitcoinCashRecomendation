@@ -8,7 +8,7 @@ The program will accept an integer that represents an ID of a friend as an input
 Based on that ID the program will find it first and then traverse all of his so called "friends of friends", every other user in the graph that is friend with a friend of the ID that was used as an input, looking for the highest positive value.
 Once it gets that rating the program will recommend that friend of a friend by writting its ID into the console.
 
-HOW TO PLAY
+HOW TO USE IT
 
   1. Download files: main.c, graph.h and ssbca.csv.
   2. Go into your terminal and compile using the command: gcc -o bitcoin main.c 
